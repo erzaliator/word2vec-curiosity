@@ -1,0 +1,14 @@
+scp -r  kartik@abacus.iiit.ac.in:/lustre/kartik/
+
+ssh kartik@abacus.iiit.ac.in
+
+Data is located in /lustre/kartik/
+
+File to run script is loacted in ~/misc
+type sbatch abacus17.sh
+Edit the above file if u want to execute some other program
+
+To run an interactive session, use ctrl+r and type srun, and just run the command that comes after that
+Then type module load python/2.7.8 and type python2.7 to start python terminal
+
+http://abacus.iiit.ac.in/mediawiki/index.php/Main_Page

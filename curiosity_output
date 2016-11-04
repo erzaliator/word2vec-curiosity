@@ -1,0 +1,267 @@
+curiosity
+[(u'curiousity', 0.8164562582969666), (u'inquisitiveness', 0.6929727792739868), (u'innate_curiosity', 0.6653751730918884), (u'morbid_curiosity', 0.6431741118431091), (u'fascination', 0.6353843808174133), (u'intellectual_curiosity', 0.5645703077316284), (u'insatiable_curiosity', 0.5548449754714966), (u'curiosities', 0.5443925857543945), (u'wonderment', 0.5408617258071899), (u'childlike_curiosity', 0.5364288687705994)]
+
+curiosities
+[(u'oddities', 0.636711835861206), (u'curios', 0.5843667387962341), (u'fascinations', 0.5776674747467041), (u'curiosity', 0.5443925261497498), (u'miscellany', 0.5219053030014038), (u'ephemera', 0.5087180733680725), (u"objets_d'_art", 0.5065456032752991), (u'obsessions', 0.4902857840061188), (u'Wunderkammer', 0.48989471793174744), (u'curiousity', 0.4835624098777771)]
+
+curious
+[(u'intrigued', 0.6775121688842773), (u'puzzled', 0.6564809679985046), (u'perplexed', 0.6306267380714417), (u'puzzling', 0.6094664335250854), (u'mystified', 0.5973089337348938), (u'strange', 0.5966061353683472), (u'baffled', 0.5905926823616028), (u'interesting', 0.5820386409759521), (u'amused', 0.5785535573959351), (u'bemused', 0.5729457139968872)]
+
+curiouser
+[(u'Curiouser', 0.5751065611839294), (u'curioser', 0.48421940207481384), (u'weirder', 0.4553934335708618), (u'murkier', 0.45083487033843994), (u'odder', 0.4075312316417694), (u'strange', 0.3983520567417145), (u'bizzare', 0.39710038900375366), (u'sillier', 0.3920353353023529), (u'shriller', 0.38908806443214417), (u'tiresome', 0.3876340091228485)]
+
+curiousest
+"word 'curiousest' not in vocabulary"
+
+anxiety
+[(u'nervousness', 0.7295805811882019), (u'anxieties', 0.7191058993339539), (u'angst', 0.7089994549751282), (u'uneasiness', 0.6859548687934875), (u'Anxiety', 0.6831154227256775), (u'anxiousness', 0.6792256832122803), (u'unease', 0.6652984619140625), (u'stress', 0.6142929792404175), (u'anticipatory_anxiety', 0.6105846762657166), (u'jitters', 0.5984807014465332)]
+
+novelty
+[(u'novelties', 0.6010758280754089), (u'oddity', 0.5015509724617004), (u'kitschy', 0.5000773668289185), (u'gimmicky', 0.4986923635005951), (u'kitsch', 0.49495452642440796), (u'Mirth_quirky_toy', 0.4901966452598572), (u'fad', 0.483041912317276), (u'newness', 0.4776001274585724), (u'Novelty', 0.4770253002643585), (u'royal_wedding_mania', 0.467020720243454)]
+
+surprise
+[(u'suprise', 0.7433163523674011), (u'surprising', 0.6745033264160156), (u'pleasant_surprise', 0.6525507569313049), (u'shocker', 0.6508702039718628), (u'surpise', 0.6233118176460266), (u'surprises', 0.5990688800811768), (u'surprised', 0.594841718673706), (u'shock', 0.5711441040039062), (u'disappointment', 0.536738395690918), (u'suprising', 0.5209904909133911)]
+
+uncertainity
+[(u'uncertainty', 0.6657534837722778), (u'uncertainly', 0.5981777906417847), (u'Uncertainty', 0.5627408623695374), (u'uncertainities', 0.5360904932022095), (u'uncertaintly', 0.530062198638916), (u'nervousness', 0.5230538249015808), (u'uneasiness', 0.520869255065918), (u'uncertainy', 0.5037907958030701), (u'Communal_tension', 0.4957702159881592), (u'Nervousness', 0.4913256764411926)]
+
+complexity
+[(u'complexities', 0.7774602174758911), (u'intricacy', 0.5962762832641602), (u'sophistication', 0.5548570156097412), (u'zaibatsu_vibrissae', 0.5419630408287048), (u'complexities_inherent', 0.5412317514419556), (u'Fabrinet_focuses', 0.5207013487815857), (u'heterogeneity', 0.5148463249206543), (u'simplicity', 0.5082987546920776), (u'complicated', 0.5046725273132324), (u'AP_Interview_Schieffer', 0.5029624104499817)]
+
+superficial
+[(u'superficiality', 0.5655550360679626), (u'superficially', 0.5580728650093079), (u'vacuous', 0.5495345592498779), (u'simplistic', 0.5453479290008545), (u'Superficial', 0.5389593839645386), (u'vapid', 0.5342308878898621), (u'trite', 0.534087061882019), (u'banal', 0.532368004322052), (u'cursory', 0.5311064124107361), (u'superficialities', 0.5282750129699707)]
+
+childhood
+[(u'boyhood', 0.6465250253677368), (u'adolescence', 0.6183983087539673), (u'childhoods', 0.6148549914360046), (u'Childhood', 0.5785490870475769), (u'upbringing', 0.5685805082321167), (u'formative', 0.5579544901847839), (u'seen_Mayon_eruptions', 0.5507520437240601), (u'babyhood', 0.5369747281074524), (u'childhood_memories', 0.5356472730636597), (u'adulthood', 0.5313642621040344)]
+
+children
+[(u'kids', 0.7439050078392029), (u'child', 0.7259479761123657), (u'childen', 0.719562828540802), (u'parents', 0.7193501591682434), (u'chidren', 0.7091145515441895), (u'toddlers', 0.689218282699585), (u'chidlren', 0.6814539432525635), (u'childrens', 0.6647016406059265), (u'daughters', 0.6645586490631104), (u'Children', 0.6600914001464844)]
+
+curio
+[(u'curios', 0.6283027529716492), (u"objet_d'_art", 0.5214672684669495), (u'trinket', 0.5153011679649353), (u'antique', 0.5120258331298828), (u'curio_shops', 0.49946194887161255), (u'knick_knacks', 0.4945666790008545), (u'antiquarian', 0.4937812089920044), (u"objets_d'_art", 0.4922313094139099), (u'knick_knack', 0.4869053363800049), (u'knickknack', 0.47599178552627563)]
+
+invention
+[(u'inventions', 0.7546509504318237), (u'invented', 0.7019385695457458), (u'inventor', 0.6883099675178528), (u'inventing', 0.6157718300819397), (u'inventors', 0.6039355397224426), (u'invent', 0.5867879390716553), (u'Philo_Farnsworth', 0.5361437201499939), (u'prolific_inventor', 0.5282012224197388), (u'xerography', 0.5261391997337341), (u'inventiveness', 0.5238038301467896)]
+
+discovery
+[(u'discoveries', 0.724649965763092), (u'discovering', 0.5506346821784973), (u'discovered', 0.5421186685562134), (u'Hanchet_singled', 0.5290446877479553), (u'serendipitous_discovery', 0.5046325325965881), (u'Follow_LiveScience', 0.5045691132545471), (u'NSERC_promotes', 0.4992375075817108), (u'offshore_Hosgri_Fault', 0.4962010383605957), (u'Goldbrook_quest', 0.49226832389831543), (u'paracrine_signaling', 0.48974373936653137)]
+
+new
+[(u'revamped', 0.5752019882202148), (u'thenew', 0.5709600448608398), (u'newest', 0.5672253966331482), (u'newly', 0.48823967576026917), (u'revamps', 0.4771972596645355), (u'newer', 0.47398409247398376), (u'brand_spanking', 0.4738619327545166), (u'existing', 0.4715658724308014), (u'long_awaited', 0.4662875533103943), (u'groundbreaking', 0.45392635464668274)]
+
+innovation
+[(u'technological_innovation', 0.8202390670776367), (u'innovations', 0.7408632040023804), (u'innovate', 0.7123475074768066), (u'innovating', 0.6502817869186401), (u'Innovation', 0.6476377248764038), (u'innovative', 0.6423699855804443), (u'Note_UGS_Transforming', 0.638292670249939), (u'innovators', 0.6338719129562378), (u'technological_innovations', 0.6093295812606812), (u'HMI_SCADA_s', 0.6083804368972778)]
+
+fresh
+[(u'freshest', 0.5484253764152527), (u'Fresh', 0.5454068779945374), (u'fresher', 0.5439394116401672), (u'freshly', 0.46364685893058777), (u'freshness', 0.4630751311779022), (u'new', 0.44456037878990173), (u'refreshed', 0.43724995851516724), (u'renewed', 0.43388158082962036), (u'famiily_musical_favorite', 0.43247419595718384), (u'stale', 0.42945411801338196)]
+
+strange
+[(u'weird', 0.8164578676223755), (u'peculiar', 0.7606381773948669), (u'bizarre', 0.7378588318824768), (u'odd', 0.7307427525520325), (u'surreal', 0.6554129123687744), (u'disconcerting', 0.6351588368415833), (u'unusual', 0.6263981461524963), (u'freaky', 0.6124913692474365), (u'strangest', 0.6002056002616882), (u'curious', 0.5966061353683472)]
+
+odd
+[(u'strange', 0.7307427525520325), (u'peculiar', 0.6404054164886475), (u'weird', 0.6381518244743347), (u'bizarre', 0.6104002594947815), (u'incongruous', 0.6027597784996033), (u'unusual', 0.5962440371513367), (u'odder', 0.588617205619812), (u'oddest', 0.5715831518173218), (u'Odd', 0.5601555705070496), (u'oddball', 0.5580939650535583)]
+
+peculiar
+[(u'strange', 0.7606381773948669), (u'bizarre', 0.6634207367897034), (u'odd', 0.6404054760932922), (u'unusual', 0.6226118803024292), (u'peculiarity', 0.60677570104599), (u'peculiarly', 0.5893346667289734), (u'paradoxical', 0.5883002281188965), (u'incongruous', 0.584739089012146), (u'weird', 0.5796815156936646), (u'idiosyncratic', 0.5779067873954773)]
+
+funny
+[(u'hilarious', 0.7953874468803406), (u'humorous', 0.7306495904922485), (u'hilariously_funny', 0.7174550890922546), (u'amusing', 0.7145008444786072), (u'found_loophole_Conk', 0.7030782699584961), (u'goofy', 0.7015494704246521), (u'comical', 0.6889721155166626), (u'witty', 0.6855588555335999), (u'funniest', 0.6850724220275879), (u'freaking_hilarious', 0.6803770065307617)]
+
+unusual
+[(u'unsual', 0.6730690598487854), (u'uncommon', 0.6726347208023071), (u'atypical', 0.6683832406997681), (u'strange', 0.6263981461524963), (u'peculiar', 0.6226118803024292), (u'odd', 0.5962440967559814), (u'surprising', 0.5918726325035095), (u'unexpected', 0.5728752017021179), (u'rare', 0.569968044757843), (u'extraordinary', 0.5673513412475586)]
+
+bizarre
+[(u'strange', 0.7378588318824768), (u'bizzare', 0.7171466946601868), (u'baffling', 0.6715994477272034), (u'peculiar', 0.6634207367897034), (u'comical', 0.6518751382827759), (u'wacky', 0.6491468548774719), (u'weird', 0.6480935215950012), (u'farcical', 0.641394317150116), (u'outlandish', 0.6381270885467529), (u'surreal', 0.6328918933868408)]
+
+weird
+[(u'strange', 0.8164578676223755), (u'freaky', 0.7754700779914856), (u'crazy', 0.7110567092895508), (u'kinda_weird', 0.6912728548049927), (u'surreal', 0.6828055381774902), (u'scary', 0.6791125535964966), (u'wierd', 0.670881986618042), (u'funny', 0.6598527431488037), (u'creepy', 0.6570324301719666), (u'bizarre', 0.6480935215950012)]
+
+eccentric
+[(u'idiosyncratic', 0.6900144219398499), (u'oddball', 0.6890769600868225), (u'quirky', 0.6437880396842957), (u'eccentrics', 0.6381766200065613), (u'kooky', 0.6353508234024048), (u'flamboyant', 0.613166868686676), (u'zany', 0.6106283664703369), (u'irascible', 0.606001615524292), (u'eccentricity', 0.596339225769043), (u'wacky', 0.5963224172592163)]
+
+queer
+[(u'genderqueer', 0.7026611566543579), (u'LGBTQ', 0.6990917325019836), (u'gay', 0.6972684860229492), (u'LGBT', 0.6857555508613586), (u'lesbian', 0.6770454049110413), (u'GLBT', 0.6749699711799622), (u'Queer', 0.6673474907875061), (u'GLBTQ', 0.6604336500167847), (u'queers', 0.6523240208625793), (u'gay_bisexual_transgendered', 0.6437941193580627)]
+
+unexpected
+[(u'unforeseen', 0.6728395223617554), (u'unanticipated', 0.6618053317070007), (u'Unexpected', 0.6470903754234314), (u'unpredicted', 0.6299781203269958), (u'unforseen', 0.5790091753005981), (u'unusual', 0.5728751420974731), (u'surprising', 0.5534811019897461), (u'unplanned', 0.5401614904403687), (u'abrupt', 0.5391387939453125), (u'unexpectedly', 0.5243903398513794)]
+
+unfamiliar
+[(u'Unfamiliar', 0.5840176939964294), (u'familiar', 0.5813713669776917), (u'unfamiliar_territory', 0.5797495245933533), (u'unaccustomed', 0.5704763531684875), (u'unfamiliarity', 0.5684624314308167), (u'unacquainted', 0.5403856039047241), (u'familiarity', 0.5143260955810547), (u'unfamilar', 0.5103757381439209), (u'familar', 0.5082716345787048), (u'familiarize_themselves', 0.5004716515541077)]
+
+abnormal
+[(u'abnormalities', 0.6800687909126282), (u'abnormality', 0.6695041656494141), (u'Abnormal', 0.655716598033905), (u'aberrant', 0.5864051580429077), (u'abnormal_heartbeats', 0.5777754783630371), (u'abnormally', 0.5758586525917053), (u'irregular', 0.5680277943611145), (u'ectopic', 0.5643265843391418), (u'overactive_thyroid_gland', 0.5630483031272888), (u'hydrops', 0.555482804775238)]
+
+out of the ordinary
+"word 'out of the ordinary' not in vocabulary"
+
+out_of_the_ordinary
+"word 'out_of_the_ordinary' not in vocabulary"
+
+atypical
+[(u'unusual', 0.6683832406997681), (u'typical', 0.5935831665992737), (u'uncommon', 0.5821128487586975), (u'peculiar', 0.5420616865158081), (u'idiosyncratic', 0.4999901056289673), (u'characteristic', 0.49925947189331055), (u'untypical', 0.4965967535972595), (u'uncharacteristic', 0.49149027466773987), (u'Atypical', 0.4811253249645233), (u'unorthodox', 0.4799632430076599)]
+
+anomalous
+[(u'anomalous_gold', 0.6714905500411987), (u'anomalies', 0.6635296940803528), (u'anomaly', 0.6579186916351318), (u'anomalous_uranium', 0.6287521719932556), (u'anomalous_mineralization', 0.6277797222137451), (u'geochemically_anomalous', 0.626572847366333), (u'anomalism', 0.6239228844642639), (u'soil_geochemical_anomalies', 0.623660147190094), (u'anomalous_zinc', 0.6216011047363281), (u'anomalous_copper', 0.60762619972229)]
+
+untypical
+[(u'atypical', 0.4965967535972595), (u'beggar_belief', 0.47377827763557434), (u'untypically', 0.4658105671405792), (u'unedifying', 0.4575667679309845), (u'typical', 0.45251262187957764), (u'unusual', 0.44952747225761414), (u'peculiar', 0.4490766227245331), (u'uncharacteristic', 0.44464778900146484), (u'odd', 0.44342920184135437), (u'phlegmatic', 0.4409143626689911)]
+
+different
+[(u'Different', 0.7007951736450195), (u'diff_erent', 0.6562886834144592), (u'differing', 0.6467970609664917), (u'dif_ferent', 0.638598620891571), (u'differ_ent', 0.6372883915901184), (u'diferent', 0.6262663006782532), (u'varying', 0.6100291609764099), (u'differently', 0.6084544658660889), (u'diffferent', 0.5909979939460754), (u'divergent', 0.5891364812850952)]
+
+out_of_the_way
+"word 'out_of_the_way' not in vocabulary"
+
+surprising
+[(u'startling', 0.7205150127410889), (u'unsurprising', 0.699179470539093), (u'shocking', 0.6891365051269531), (u'puzzling', 0.6854829788208008), (u'suprising', 0.6774353384971619), (u'disconcerting', 0.6754745244979858), (u'surprise', 0.6745033264160156), (u'noteworthy', 0.6549299955368042), (u'surprised', 0.6358780860900879), (u'heartening', 0.6261997222900391)]
+
+incongruous
+[(u'odd', 0.602759838104248), (u'peculiar', 0.5847390294075012), (u'absurd', 0.5653622150421143), (u'unremarkable', 0.5609390139579773), (u'strange', 0.5566529631614685), (u'ludicrous', 0.5539964437484741), (u'anachronistic', 0.5527016520500183), (u'apropos', 0.5490855574607849), (u'ironic', 0.5449323654174805), (u'oxymoronic', 0.5445379018783569)]
+
+extraordinary
+[(u'incredible', 0.7156360149383545), (u'exceptional', 0.706274151802063), (u'remarkable', 0.6932550668716431), (u'unprecedented', 0.6701034307479858), (u'astonishing', 0.6544003486633301), (u'astounding', 0.618152916431427), (u'amazing', 0.6157731413841248), (u'unbelievable', 0.569164514541626), (u'unusual', 0.5673513412475586), (u'enormous', 0.5664934515953064)]
+
+remarkable
+[(u'astonishing', 0.7762373685836792), (u'astounding', 0.7247663736343384), (u'amazing', 0.7095627188682556), (u'incredible', 0.7077719569206238), (u'extraordinary', 0.6932550072669983), (u'impressive', 0.6836574077606201), (u'phenomenal', 0.6809091567993164), (u'marvelous', 0.671942949295044), (u'startling', 0.6500833630561829), (u'stunning', 0.648809552192688)]
+
+puzzling
+[(u'perplexing', 0.8320311903953552), (u'baffling', 0.8162232041358948), (u'mystifying', 0.7573825716972351), (u'troubling', 0.6922525763511658), (u'surprising', 0.6854829788208008), (u'disconcerting', 0.6646026372909546), (u'puzzled', 0.6507869958877563), (u'startling', 0.6351403594017029), (u'befuddling', 0.6249856948852539), (u'baffled', 0.6154371500015259)]
+
+mystifying
+[(u'baffling', 0.785110354423523), (u'puzzling', 0.7573825716972351), (u'perplexing', 0.7323750257492065), (u'befuddling', 0.6476778984069824), (u'maddening', 0.626717209815979), (u'bewildering', 0.618428111076355), (u'inexplicable', 0.6171516180038452), (u'mystified', 0.6029314398765564), (u'bizarre', 0.5980499386787415), (u'confounding', 0.5908010601997375)]
+
+mysterious
+[(u'Mysterious', 0.6460986733436584), (u'enigmatic', 0.615983247756958), (u'mystery', 0.6145787835121155), (u'sinister', 0.5868083834648132), (u'mystical', 0.5787666440010071), (u'strange', 0.5763182044029236), (u'shadowy', 0.5762693285942078), (u'ghostly', 0.5740852952003479), (u'unexplained', 0.572849690914154), (u'mysteriously', 0.5633003115653992)]
+
+perplexing
+[(u'puzzling', 0.8320311307907104), (u'baffling', 0.8070020079612732), (u'mystifying', 0.7323750257492065), (u'troubling', 0.6747955083847046), (u'vexing', 0.6692952513694763), (u'disconcerting', 0.6531093716621399), (u'befuddling', 0.6450453400611877), (u'maddening', 0.6312299370765686), (u'unsettling', 0.6148441433906555), (u'intriguing', 0.6080976128578186)]
+
+baffling
+[(u'puzzling', 0.81622314453125), (u'perplexing', 0.8070020079612732), (u'mystifying', 0.785110354423523), (u'befuddling', 0.6862801313400269), (u'inexplicable', 0.6721909046173096), (u'bizarre', 0.6715994477272034), (u'maddening', 0.6604166626930237), (u'bewildering', 0.6595513224601746), (u'incomprehensible', 0.6506350040435791), (u'baffled', 0.6471259593963623)]
+
+unaccountable
+[(u'unelected_unaccountable', 0.6663832068443298), (u'unaccountable_bureaucrats', 0.6057789921760559), (u'unelected', 0.5962964296340942), (u'unaccountable_unelected', 0.5947700142860413), (u'bureaucracies', 0.5565103888511658), (u'unaccountability', 0.554515540599823), (u'unelected_bureaucrats', 0.5507017970085144), (u'Obama_unelected_unvetted', 0.5480909943580627), (u'secretive_unaccountable', 0.5450133681297302), (u'unelected_unrepresentative', 0.5411304831504822)]
+
+inexplicable
+[(u'unexplainable', 0.7189683318138123), (u'baffling', 0.6721909046173096), (u'incomprehensible', 0.6371320486068726), (u'unfathomable', 0.6297429203987122), (u'mystifying', 0.6171516180038452), (u'puzzling', 0.6049177050590515), (u'bizarre', 0.5923266410827637), (u'perplexing', 0.5663061141967773), (u'uncharacteristic', 0.5649392008781433), (u'unexplained', 0.5440580248832703)]
+
+irregular
+[(u'irregularly', 0.6005482077598572), (u'Irregular', 0.5855653882026672), (u'abnormal', 0.5680277943611145), (u'irregularity', 0.542353630065918), (u'Dahshur_bent_pyramid', 0.5381312370300293), (u'everything_unravels_Schwieterman', 0.5282815098762512), (u'irregularities', 0.46993744373321533), (u'abnormally', 0.4459444284439087), (u'asymmetrical', 0.4156942367553711), (u'anomalous', 0.4081076979637146)]
+
+offbeat
+[(u'quirky', 0.7808971405029297), (u'oddball', 0.7023306488990784), (u'zany', 0.6024662256240845), (u'whimsical', 0.5991056561470032), (u'idiosyncratic', 0.5976896286010742), (u'eccentric', 0.5929591059684753), (u'eclectic', 0.592754602432251), (u'humorous', 0.5859138369560242), (u'wacky', 0.5844163298606873), (u'irreverent', 0.578629195690155)]
+
+unconventional
+[(u'unorthodox', 0.6923308968544006), (u'untraditional', 0.5988584756851196), (u'nonconventional', 0.5775600075721741), (u'Unconventional', 0.5754619240760803), (u'nontraditional', 0.5324518084526062), (u'offbeat', 0.5195799469947815), (u'Bette_Midler_Barbra_Streisand', 0.513799250125885), (u'inventive', 0.4923228621482849), (u'unconventionally', 0.4746916890144348), (u'conventional', 0.4746398627758026)]
+
+unorthodox
+[(u'unconventional', 0.6923308968544006), (u'untraditional', 0.6069767475128174), (u'idiosyncratic', 0.5465742349624634), (u'orthodox', 0.540880560874939), (u'offbeat', 0.5209332704544067), (u'unusual', 0.5179707407951355), (u'inventive', 0.5089949369430542), (u'eccentric', 0.5022098422050476), (u'ingenious', 0.4931553602218628), (u'unorthodox_methods', 0.48520028591156006)]
+
+outlandish
+[(u'outrageous', 0.7680980563163757), (u'preposterous', 0.6999685764312744), (u'absurd', 0.6995594501495361), (u'ridiculous', 0.6808869242668152), (u'ludicrous', 0.6679945588111877), (u'bizarre', 0.6381270289421082), (u'fanciful', 0.6336609721183777), (u'nonsensical', 0.6252372860908508), (u'extravagant', 0.6214746236801147), (u'wacky', 0.6109130382537842)]
+
+off-centre
+"word 'off-centre' not in vocabulary"
+
+aberrant
+[(u'abnormal', 0.5864050984382629), (u'aberrant_behavior', 0.5465505719184875), (u'aberrations', 0.5320250391960144), (u'deleterious_mutations', 0.518784761428833), (u'epiphenomenon', 0.5155459642410278), (u'pathological', 0.5022943615913391), (u'morally_blameworthy', 0.4967310130596161), (u'perverse', 0.4948742985725403), (u'overactivated', 0.4941967725753784), (u'stereotypic', 0.4910387694835663)]
+
+freak
+[(u'freaks', 0.6624215245246887), (u'freakish', 0.6220204830169678), (u'freaky', 0.6070793271064758), (u'maniac', 0.538097620010376), (u'crazy', 0.49679115414619446), (u'weird', 0.49361082911491394), (u'freak_occurrence', 0.48756128549575806), (u'weirdo', 0.4859192967414856), (u'cocky_arrogant', 0.48358234763145447), (u'Cassy_Hobert', 0.48357176780700684)]
+
+freakish
+[(u'freak', 0.6220205426216125), (u'freaky', 0.6163654923439026), (u'bizarre', 0.582230806350708), (u'superhuman', 0.5251697301864624), (u'monstrous', 0.5251437425613403), (u'Freakish', 0.5137532353401184), (u'grotesque', 0.5121892094612122), (u'weird', 0.510159432888031), (u'uncanny', 0.5089018940925598), (u'inexplicable', 0.49672016501426697)]
+
+deviant
+[(u'deviants', 0.6183629631996155), (u'depraved', 0.609305739402771), (u'perverted', 0.5783575177192688), (u'pedophilic', 0.5345259308815002), (u'sexual_deviant', 0.5332223773002625), (u'perverts', 0.526107907295227), (u'deviant_sexual', 0.5259271264076233), (u'antisocial', 0.523438572883606), (u'deviant_behaviors', 0.5172407031059265), (u'satanic', 0.5122543573379517)]
+
+uncanny
+[(u'preternatural', 0.7150440812110901), (u'unerring', 0.6147438287734985), (u'innate', 0.6136415004730225), (u'uncanny_ability', 0.5660797953605652), (u'otherworldly', 0.565372884273529), (u'eerie', 0.5513591766357422), (u'unerring_eye', 0.5415439009666443), (u'instinctive', 0.5390496850013733), (u'astonishing', 0.5366716980934143), (u'astounding', 0.5322473049163818)]
+
+eerie
+[(u'ghostly', 0.6814172863960266), (u'haunting', 0.659970760345459), (u'spooky', 0.6577789783477783), (u'otherworldly', 0.655684232711792), (u'eery', 0.6400910019874573), (u'foreboding', 0.637272298336029), (u'dreamlike', 0.634974479675293), (u'surreal', 0.6349729299545288), (u'eerily', 0.6263504028320312), (u'Eerie', 0.6237256526947021)]
+
+unnatural
+[(u'unnaturally', 0.5214285850524902), (u'inherently_sinful', 0.5194851756095886), (u'strange', 0.516639769077301), (u'Lusi_mud_volcano', 0.5047482252120972), (u'natural', 0.5030758380889893), (u'undesirable', 0.49208781123161316), (u'inharmonious', 0.4816310703754425), (u'grotesque', 0.47952550649642944), (u'autoerotic', 0.4793355166912079), (u'peculiar', 0.4787873327732086)]
+
+wacky
+[(u'zany', 0.7820362448692322), (u'kooky', 0.739070475101471), (u'whacky', 0.7287930250167847), (u'quirky', 0.6801264882087708), (u'oddball', 0.6670064926147461), (u'goofy', 0.6662107706069946), (u'bizarre', 0.6491468548774719), (u'madcap', 0.6371145248413086), (u'weird', 0.6303653717041016), (u'outlandish', 0.610913097858429)]
+
+eager
+[(u'anxious', 0.7221143841743469), (u'hoping', 0.6878920793533325), (u'keen', 0.6450806260108948), (u'willing', 0.632845401763916), (u'eagerness', 0.6188205480575562), (u'reluctant', 0.6149824857711792), (u'wanting', 0.6050570607185364), (u'ready', 0.5958950519561768), (u'eagerly_waiting', 0.5753735899925232), (u'loath', 0.5750226974487305)]
+
+learn
+[(u'teach', 0.669853687286377), (u'Learn', 0.652957558631897), (u'learned', 0.6429629325866699), (u'learning', 0.6365275979042053), (u'visit_www.imuc.com', 0.6094603538513184), (u'discover', 0.6056274175643921), (u'Vectren_visit_http://www.vectren.com', 0.5989389419555664), (u'please_visit_www.ubisoftgroup.com', 0.5981004238128662), (u'Company_visit_http://www.csst.com', 0.5960359573364258), (u'IMUC_please', 0.5930355191230774)]
+
+know
+[(u'tell', 0.7356716990470886), (u'think', 0.7344213128089905), (u'do', 0.7242884039878845), (u'understand', 0.7018067836761475), (u'guess', 0.6652457118034363), (u'tomorrow_Camardelle', 0.6534587144851685), (u'knew', 0.6508126258850098), (u"don'tknow", 0.6500667929649353), (u'say', 0.6410232186317444), (u'Nobody_cares', 0.6363797187805176)]
+
+knowledge
+[(u'knowlege', 0.6505810022354126), (u'expertise', 0.6464044451713562), (u'understanding', 0.6270675659179688), (u'knowhow', 0.5822150707244873), (u'experience', 0.5741491317749023), (u'skills', 0.5266638398170471), (u'insights', 0.5236833095550537), (u'familiarity', 0.5105752944946289), (u'insight', 0.507941484451294), (u'acumen', 0.4842022657394409)]
+
+inquisitive
+[(u'insatiably_curious', 0.6099091172218323), (u'intellectually_curious', 0.5869965553283691), (u'attentive', 0.565565288066864), (u'Inquisitive', 0.5579461455345154), (u'gregarious', 0.557086169719696), (u'inquisitiveness', 0.556046187877655), (u'studious', 0.5534874200820923), (u'talkative', 0.552061915397644), (u'nosy', 0.5503018498420715), (u'curious', 0.5471247434616089)]
+
+intrigued
+[(u'fascinated', 0.7719168066978455), (u'curious', 0.6775122284889221), (u'enamored', 0.6773291826248169), (u'puzzled', 0.6386255025863647), (u'entranced', 0.6335687041282654), (u'enthralled', 0.6266919374465942), (u'baffled', 0.6143395900726318), (u'surprised', 0.6077361702919006), (u'mystified', 0.6074827313423157), (u'taken_aback', 0.6073036193847656)]
+
+interested
+[(u'intersted', 0.638435959815979), (u'keenly_interested', 0.6022700667381287), (u'Interested', 0.5911518335342407), (u'inter_ested', 0.5493183135986328), (u'averse', 0.5231113433837891), (u'involved', 0.5229313969612122), (u'intrigued', 0.521199107170105), (u'leaning_toward', 0.5172181129455566), (u'actively_engaged', 0.5142319798469543), (u'vested_interest', 0.5117905735969543)]
+
+eager to know
+"word 'eager to know' not in vocabulary"
+
+eager_to_know
+"word 'eager_to_know' not in vocabulary"
+
+dying to know
+"word 'dying to know' not in vocabulary"
+
+dying_to_know
+"word 'dying_to_know' not in vocabulary"
+
+burning with curiosity
+"word 'burning with curiosity' not in vocabulary"
+
+burning_with_curiosity
+"word 'burning_with_curiosity' not in vocabulary"
+
+agog
+[(u'abuzz', 0.704490065574646), (u'atwitter', 0.6694075465202332), (u'buzzing', 0.5879323482513428), (u'aflutter', 0.5777947902679443), (u'aghast', 0.5700026750564575), (u'enthralled', 0.569132924079895), (u'bated_breath', 0.566563069820404), (u'salivating', 0.5537756681442261), (u'gaga', 0.5503964424133301), (u'ga_ga', 0.5472376942634583)]
+
+quizzical
+[(u'quizzically', 0.6068385243415833), (u'quizzical_expression', 0.5723031759262085), (u'furrowed_brow', 0.5362388491630554), (u'squinty_eyed', 0.5269548892974854), (u'pensive', 0.5184385776519775), (u'questioningly', 0.5182532072067261), (u'sidelong', 0.5152586102485657), (u'asker', 0.5090445280075073), (u'blank_stare', 0.506951093673706), (u'bemused', 0.5036563873291016)]
+
+enquiring
+"word 'enquiring' not in vocabulary"
+
+searching
+[(u'search', 0.7250076532363892), (u'scouring', 0.7191847562789917), (u'searched', 0.7081222534179688), (u'Searching', 0.6851653456687927), (u'seaching', 0.6466109752655029), (u'combing', 0.64246666431427), (u'scoured', 0.6012483239173889), (u'frantically_searching', 0.5976272821426392), (u'looking', 0.5924039483070374), (u'searches', 0.5777103900909424)]
+
+probing
+[(u'probed', 0.7616792321205139), (u'investigating', 0.6958680152893066), (u'probe', 0.6299970746040344), (u'examining', 0.6253511905670166), (u'investigate', 0.6063746213912964), (u'Probing', 0.5693104267120361), (u'probes', 0.564254105091095), (u'scrutinizing', 0.5641183257102966), (u'investigated', 0.5510943531990051), (u'investigates', 0.5286860466003418)]
+
+querying
+[(u'queried', 0.5900369882583618), (u'query', 0.5786417722702026), (u'queries', 0.5332732796669006), (u'Querying', 0.4764724373817444), (u'parsing', 0.47514060139656067), (u'UDFs', 0.45298901200294495), (u'TSQL', 0.4441496729850769), (u'SQL_queries', 0.4392535388469696), (u'questioning', 0.43898722529411316), (u'ascertaining', 0.4334685802459717)]
+
+questioning
+[(u'questioned', 0.7440118193626404), (u'Questioning', 0.6175776720046997), (u'interrogation', 0.5397814512252808), (u'interrogated', 0.5170078277587891), (u'quizzed', 0.5141291618347168), (u'interrogating', 0.5132901072502136), (u'cross_examination', 0.5101335644721985), (u'question', 0.5080598592758179), (u'quizzing', 0.4897730350494385), (u'questions', 0.48808130621910095)]
+
+interrogative
+[(u'auxiliary_verbs', 0.5595572590827942), (u'circumlocution', 0.5537212491035461), (u'subjunctive', 0.5520280599594116), (u'terseness', 0.5364847183227539), (u'auxiliary_verb', 0.5350240468978882), (u'obliqueness', 0.5325197577476501), (u'sesquipedalian', 0.5248813033103943), (u'rhyming_verse', 0.5180739164352417), (u'reflexive_pronoun', 0.5171643495559692), (u'misplaced_modifiers', 0.5148870944976807)]
+
+perplexed
+[(u'puzzled', 0.8817209005355835), (u'baffled', 0.856626033782959), (u'mystified', 0.8480635285377502), (u'bewildered', 0.7967193722724915), (u'bemused', 0.7576249241828918), (u'dumbfounded', 0.7541865110397339), (u'confused', 0.7169061303138733), (u'flabbergasted', 0.7126708626747131), (u'nonplussed', 0.709919273853302), (u'taken_aback', 0.7019199132919312)]
+
+puzzled
+[(u'perplexed', 0.8817209005355835), (u'baffled', 0.8627723455429077), (u'mystified', 0.8407806754112244), (u'bewildered', 0.7105181813240051), (u'dumbfounded', 0.7012150287628174), (u'bemused', 0.6859961152076721), (u'flabbergasted', 0.6777164340019226), (u'taken_aback', 0.6694520711898804), (u'confused', 0.6612125635147095), (u'surprised', 0.6607627272605896)]
+
+baffled
+[(u'mystified', 0.8735349774360657), (u'puzzled', 0.8627723455429077), (u'perplexed', 0.856626033782959), (u'dumbfounded', 0.7540988326072693), (u'flummoxed', 0.7336333990097046), (u'bewildered', 0.7313270568847656), (u'befuddled', 0.7285803556442261), (u'flabbergasted', 0.7020136117935181), (u'bemused', 0.685613214969635), (u'stunned', 0.6816620826721191)]
+
+mystified
+[(u'baffled', 0.8735349774360657), (u'perplexed', 0.8480635285377502), (u'puzzled', 0.8407806158065796), (u'dumbfounded', 0.7320969700813293), (u'flabbergasted', 0.7112191915512085), (u'bemused', 0.6925220489501953), (u'dismayed', 0.6877580881118774), (u'bewildered', 0.6820518970489502), (u'astounded', 0.6744357943534851), (u'surprised', 0.6680837869644165)]
+
+snoopy
+[(u'nosy', 0.594877302646637), (u'snoops', 0.5507652759552002), (u'nosy_neighbors', 0.5266711711883545), (u'Gladys_Kravitz', 0.5100293159484863), (u'snooper', 0.4790465235710144), (u'Nosy', 0.4743068516254425), (u'nosy_parker', 0.4735099673271179), (u'snoop', 0.46913784742355347), (u'snoopers', 0.4691047966480255), (u'tattle_tale', 0.4677991569042206)]
+Program finished with exit code 0 at: Fri Nov  4 02:38:47 IST 2016
